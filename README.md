@@ -36,7 +36,7 @@
 <br><br><br>
 <p align="left">
   <a href="https://github.com/ararararararara/CommitCombo">
-    <img src="http://commitcombo.com/theme?user=Devxb"/>
+    <img src="http://commitcombo.com/theme?user=ararararararara"/>
   </a>
 </p>
 
