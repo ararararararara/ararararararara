@@ -34,9 +34,11 @@
 <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Go-7649bb?style=flat-square&logo=Go&logoColor=white"/></a>&nbsp 
 <br><br><br>
-<a href="https://github.com/devxb/CommitCombo">
-	<img src="http://commitcombo.com/theme/box/?user=Devxb&theme=Rainbow"/>
-</a>
+<p align="right">
+  <a href="https://github.com/devxb/CommitCombo">
+    <img src="http://commitcombo.com/theme?user=Devxb"/>
+  </a>
+</p>
 
 
 
